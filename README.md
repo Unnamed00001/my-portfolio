@@ -1,2 +1,2 @@
 # my-portfolio
-Desenvolvedor mobile full stack em formação, aprendendo Node.js, React Native e TypeScript. Construindo projetos práticos para fortalecer meu portfólio e habilidades.
+Full-stack mobile developer in training, learning Node.js, React Native, and TypeScript. Building practical projects to strengthen my portfolio and skills.
